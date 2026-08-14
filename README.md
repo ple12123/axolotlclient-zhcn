@@ -1,3 +1,4 @@
+> ⚠️ 本项目已归档，不再更新。MC 26.1.2 / AxolotlClient 3.2.1 可用。
 # AxolotlClient zhCN Injector
 
 通过 Fabric Mixin 在运行时把简体中文翻译注入 AxolotlClient 3.2.x（MC 26.1.2）。
