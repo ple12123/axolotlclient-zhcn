@@ -1,0 +1,8 @@
+{
+  "schemaVersion": 1,
+  "id": "axolotlclient-zhcn",
+  "version": "1.0.0+26.1",
+  "name": "AxolotlClient zhCN",
+  "description": "AxolotlClient 简体中文翻译",
+  "environment": "client"
+}
