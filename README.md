@@ -43,7 +43,6 @@ cd F:\Downloads\axolotlclient-zhcn
 ## 使用
 把 jar 丢进 `.minecraft\mods\` 目录，启动游戏即可。
 
-- 必须配合 CFPA 汉化包 `Minecraft-Mod-Language-Modpack-Converted-26.1.2.zip`
 - 此 mod 只负责补充 AxolotlClient 自身的翻译键
 
 ## 自定义翻译
@@ -59,7 +58,7 @@ Mixin 切入 `net.minecraft.client.resources.language.ClientLanguage` 的构造�
 启动游戏后查看 `logs/latest.log`，搜索 `AxolotlClient-zhCN`：
 - 看到 `成功注入 xxx 条简体中文翻译` → 成功
 - 看到 `zh_cn.json not found` → zh_cn.json 路径不对
-- 看到其他错误 → 把日志贴给开发者
+- 看到其他错误 → 把日志贴给“有用的AI”
 
 ## 许可证
 - 原始英文文本版权归 AxolotlClient 团队所有
